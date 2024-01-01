@@ -17,7 +17,9 @@ Hello there! My name is Mach A. San Andres. I am currently 14 years old and was 
 - Macarons
 - Cookies
 - Milk
-- Coffee [Note: I stopped drinking coffee by 6th grade since I had to refrain from caffeine intake]
+- Coffee 
+> [!NOTE]
+> I stopped drinking coffee by 6th grade since I had to refrain from caffeine intake.
 - Mac and Cheese
 
 ## **Favorite Subjects in School**
