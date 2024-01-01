@@ -1,5 +1,6 @@
 # My First Website: All About Me ✨
 #### Mach A. San Andres | 9-Ogilvie | iMeatloaf.github.io
+
 ---
 
 Hello there! My name is Mach A. San Andres. I am currently 14 years old and was born in Mother Seton Hospital, Naga City on April 3, 2009. As you all know, this is my first time to create a personal website! I do hope that all of you will find this to be an interesting and delightful one. Anyways, here are some things you should know about me:
@@ -9,6 +10,7 @@ Hello there! My name is Mach A. San Andres. I am currently 14 years old and was 
 - Drawing/Sketching
 - Learning to play Guitar
 - Badminton
+
 ---
 
 ## **Favorite Foods**
@@ -18,12 +20,14 @@ Hello there! My name is Mach A. San Andres. I am currently 14 years old and was 
 - Cookies
 - Milk
 - Mac and Cheese
+
 ---
 
 ## **Favorite Subjects in School**
 - Math
 - English
 - Science
+
 ---
 
 ## **My Pictures**
