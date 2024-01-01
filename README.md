@@ -1,8 +1,10 @@
 ### iMeatloaf.github.io
 # My First Website: All About Me ✨
 ---
-Mach A. San Andres | 9 - Ogilvie
+
+Mach A. San Andres of 9 - Ogilvie
 ---
+
 Hello there! My name is Mach A. San Andres. I am currently 14 years old and was born in Mother Seton Hospital, Naga City on April 3, 2009. As you all know, this is my first time to create a personal website! I do hope that all of you will find this to be an interesting and delightful one. Anyways, here are some things you should know about me:
 
 ## **Hobbies/Interests**
@@ -51,3 +53,16 @@ Hello there! My name is Mach A. San Andres. I am currently 14 years old and was 
 
 ## **My Main Spotify Playlist**
 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/6TUT5fJhNEaObMjzskxGbt?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+| Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
+|--------|--------|---------|-----------|----------|--------|----------|
+| 5:0 0am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am | 5:00 am |
+| 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am | 6:00 am |
+| | 7:00 am | 7:00 am | 7:00 am | 7:00 am | 7:00 am | 7:00 am |
+| 7:30 am | | | | | | |
+| 9:00 am | | | | | | |
+| 11:00 am | | | | | | |
+| 5:00 am | | | | | | |
+| | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm | 5:30 pm |
+| 6:00 pm | | | | | | |
+| 7:00 pm | | | | | | |
